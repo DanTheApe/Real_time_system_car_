@@ -1,0 +1,11 @@
+Sense: job  203  late  66 us
+Scan:  8064 us
+Read FRONT: 86 cm  took 8032 us
+Scan:  23072 us
+Read BACK: 126 cm  took 10624 us
+Scan:  44064 us
+Read LEFT: 214 cm  took 16416 us
+Scan:  53408 us
+Read RIGHT: 37 cm  took 4800 us
+Sense: cpu  57920 us  real  99968 us
+Sense: job  204  late  79 us
